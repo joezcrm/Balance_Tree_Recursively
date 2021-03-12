@@ -42,7 +42,7 @@ int main()
 	BTree<int> tree;
 	srand((unsigned)time(nullptr));
 	int randNum;
-	UInt size = 10000;
+	UInt size = 500000;
 	UInt position;
 	int *intArray = new int [size];
 	int* intSorted = new int[size];
