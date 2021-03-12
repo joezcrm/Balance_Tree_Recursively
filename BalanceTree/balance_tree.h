@@ -4,7 +4,7 @@
 #include <fstream>
 
 typedef unsigned int UInt;
-#define NODE_SIZE 32
+#define NODE_SIZE 1024
 #define DEFAULT_TREE_SIZE 16
 #define MEMORY_SIZE 4096
 
